@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "doc-lib-client-side-solution",
+    "id": "e1dff794-94c6-4d49-9f19-34b476873142",
+    "version": "1.0.0.6",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/doc-lib.sppkg"
+  }
+}
